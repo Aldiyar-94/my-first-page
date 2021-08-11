@@ -33,6 +33,7 @@ h1 {
     top: 0px;
     border: 2px solid black;
     border-top: none;
+    border-right: none;
     padding: 5px 15px;
     background-color: blueviolet;
     color: chartreuse;
