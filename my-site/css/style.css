@@ -2,16 +2,17 @@
 * {
   box-sizing: border-box;
 }
+
 h1 {
-  margin-top: 50px;
   margin-bottom: 50px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .block1 {
-  border: 1px solid black;
+  border: 3px solid black;
   position: relative;
-  background-color: #A52A2A;
+  background-color: #1680a1;
   width: 95%;
   height: 150px;
   margin-right: auto;
